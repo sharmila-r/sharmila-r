@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharmila-r
-- 👀 I’m interested in business, coding, architect
+- 👀 I’m interested in business, coding, architecture
 - 🌱 I’m currently learning shopify template creation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
